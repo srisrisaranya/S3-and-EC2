@@ -47,17 +47,11 @@ Step 10: Create the Bucket. Click Create bucket at the bottom of the page.
 2. Select your instance → Instance State → Terminate.
 
 # Output:
-![image](https://github.com/user-attachments/assets/25a3cb24-1462-4ebe-ba8b-e03825e8ef33)
-
-![image](https://github.com/user-attachments/assets/bc5944eb-6e3b-420f-8ecf-34ac194a10a0)
+![image](https://github.com/user-attachments/assets/c8ab4002-b6d2-4ae1-b87f-a46c980d16f6)
 ![image](https://github.com/user-attachments/assets/bab92364-0a88-4b5a-987b-044741c9eb3f)
 ![image](https://github.com/user-attachments/assets/406a24e4-b233-4f60-8050-64f4f0c40b7e)
-
-
 ![image](https://github.com/user-attachments/assets/b9fe4112-7cb7-41e3-bd46-b000cf473ebf)
 ![image](https://github.com/user-attachments/assets/462df3e8-6c3b-4de9-a2c5-72b026c390cf)
-
-
 ![image](https://github.com/user-attachments/assets/a195157b-c4b4-44dc-b05b-575f983daa2e)
 
 # Result:
