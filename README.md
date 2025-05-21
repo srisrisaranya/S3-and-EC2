@@ -5,10 +5,10 @@
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS.
 
 # Procedure:
-a) Steps to Create a first S3 Bucket:
+# a) Steps to Create a first S3 Bucket:
 
 Step 1: Sign in to the AWS Management Console
-Go to https://console.aws.amazon.com/s3.
+        Go to https://console.aws.amazon.com/s3.
 Step 2: Open the S3 Service. In the console, type S3 in the search bar and select S3 to open the service dashboard.
 Step 3: Create Bucket. Click the Create bucket button.
 Step 4: Configure Bucket Settings
@@ -24,7 +24,8 @@ Step 8: Encryption (optional). Select encryption options (SSE-S3, SSE-KMS, or no
 Step 9: Advanced Settings (optional). Add tags, configure logging, etc.
 Step 10: Create the Bucket. Click Create bucket at the bottom of the page.
 
-b) i. Steps to launch an EC2 Instance
+# b) i. Steps to launch an EC2 Instance
+
 1. Go to the EC2 Dashboard in AWS Console.
 2. Click on “Launch Instance”.
 3. Choose an Amazon Machine Image (AMI) (e.g., Amazon Linux).
@@ -35,12 +36,12 @@ b) i. Steps to launch an EC2 Instance
 8. Review the settings and click “Launch Instance”.
 9. Wait for the instance to enter the running state.
 
-c) Step 3: Connect to Your Instance
+# c) Step 3: Connect to Your Instance
 
 • Linux: Use SSH command with your .pem key.
 • Windows: Use RDP with decrypted admin password.
 
-d) Steps to Clean Up (Terminate the Instance)
+# d) Steps to Clean Up (Terminate the Instance)
 
 1. Go to EC2 Instances.
 2. Select your instance → Instance State → Terminate.
@@ -49,6 +50,13 @@ d) Steps to Clean Up (Terminate the Instance)
 ![image](https://github.com/user-attachments/assets/25a3cb24-1462-4ebe-ba8b-e03825e8ef33)
 
 ![image](https://github.com/user-attachments/assets/bc5944eb-6e3b-420f-8ecf-34ac194a10a0)
+![image](https://github.com/user-attachments/assets/bab92364-0a88-4b5a-987b-044741c9eb3f)
+![image](https://github.com/user-attachments/assets/406a24e4-b233-4f60-8050-64f4f0c40b7e)
+
+
+![image](https://github.com/user-attachments/assets/b9fe4112-7cb7-41e3-bd46-b000cf473ebf)
+![image](https://github.com/user-attachments/assets/462df3e8-6c3b-4de9-a2c5-72b026c390cf)
+
 
 ![image](https://github.com/user-attachments/assets/a195157b-c4b4-44dc-b05b-575f983daa2e)
 
