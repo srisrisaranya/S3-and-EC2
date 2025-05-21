@@ -6,7 +6,7 @@ To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in 
 
 # Procedure:
 # a) Steps to Create a first S3 Bucket:
-
+```
 Step 1: Sign in to the AWS Management Console
         Go to https://console.aws.amazon.com/s3.
 Step 2: Open the S3 Service. In the console, type S3 in the search bar and select S3 to open the service dashboard.
@@ -23,9 +23,9 @@ Step 7: Bucket Versioning (optional). Choose whether to enable versioning for ob
 Step 8: Encryption (optional). Select encryption options (SSE-S3, SSE-KMS, or none).
 Step 9: Advanced Settings (optional). Add tags, configure logging, etc.
 Step 10: Create the Bucket. Click Create bucket at the bottom of the page.
-
+```
 # b) i. Steps to launch an EC2 Instance
-
+```
 1. Go to the EC2 Dashboard in AWS Console.
 2. Click on “Launch Instance”.
 3. Choose an Amazon Machine Image (AMI) (e.g., Amazon Linux).
@@ -35,7 +35,7 @@ Step 10: Create the Bucket. Click Create bucket at the bottom of the page.
 7. Configure storage (default root volume is fine).
 8. Review the settings and click “Launch Instance”.
 9. Wait for the instance to enter the running state.
-
+```
 # c) Step 3: Connect to Your Instance
 
 • Linux: Use SSH command with your .pem key.
